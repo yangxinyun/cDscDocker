@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DockerDsc</id>
+    <version>0.0.1</version>
+    <authors>Yang Xinyun</authors>
+    <owners>Yang Xinyun</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Powershell DSC Resource to install Docker for Windows on Windows Server</description>
+    <releaseNotes></releaseNotes>
+    <copyright>(c) 2021 Yang Xinyun. All rights reserved.</copyright>
+    <tags>PSModule</tags>
+  </metadata>
+</package>
